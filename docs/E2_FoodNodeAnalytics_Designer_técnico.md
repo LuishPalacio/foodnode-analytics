@@ -11,7 +11,7 @@
 | Campo | Preenchimento |
 |-------|---------------|
 | Nome do projeto | **FoodNode Analytics** — Sistema de Roteamento Ótimo para Entregas de Fast-Food |
-| Repositório GitHub | `[https://github.com/LuishPalacio/foodnode-analytics]` *(preencher com a URL real)* |
+| Repositório GitHub | `[https://github.com/LuishPalacio/foodnode-analytics]`
 | Integrante 1 | Luís Henrique Palacio — RGM: 37620932 |
 | Integrante 2 | Eduardo Pereira — RGM: 38270102 |
 | Integrante 3 | Gabriel Alves — RGM: 38561310 |
