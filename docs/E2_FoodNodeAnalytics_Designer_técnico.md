@@ -57,7 +57,7 @@ Adicionalmente, **Bellman-Ford** foi considerado e descartado porque sua única 
 
 > CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. **Algoritmos: teoria e prática**. Tradução da 3ª edição. Rio de Janeiro: Elsevier, 2012. Capítulo 24, seção 24.3: "Algoritmo de Dijkstra".
 >
-> DIJKSTRA, E. W. A note on two problems in connexion with graphs. **Numerische Mathematik**, v. 1, n. 1, p. 269–271, 1959. *(artigo original)*
+> DIJKSTRA, E. W. A note on two problems in connexion with graphs. **Numerische Mathematik**, v. 1, n. 1, p. 269–271, 1959. 
 
 ---
 
