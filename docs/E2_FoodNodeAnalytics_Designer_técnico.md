@@ -303,17 +303,6 @@ O gerador usa `random.Random(seed)` isolado para não interferir com outros usos
 
 ---
 
-## Checklist de Entrega
-
-- [x] Big-O de tempo e espaço declarados para cada algoritmo *(Dijkstra: O((V+E) log V) tempo, O(V+E) espaço; BFS: O(V+E) tempo, O(V) espaço — seções 1.1 e 1.2)*
-- [x] Ao menos 1 alternativa descartada com justificativa *(A\* na tabela da seção 1.1; Bellman-Ford mencionado no texto)*
-- [x] Diagrama de arquitetura com 4 camadas identificadas *(seção 2, diagrama Mermaid com Apresentação / Aplicação / Domínio / Infraestrutura nomeadas e coloridas)*
-- [x] Referência bibliográfica para cada algoritmo (ABNT ou IEEE) *(CORMEN et al., 2012 + DIJKSTRA, 1959 para o principal; CORMEN et al., 2012 para o BFS — seções 1.1 e 1.2; formato ABNT)*
-- [x] Backlog com ≥ 5 itens In-Scope e ≥ 3 Out-of-Scope *(6 In-Scope e 5 Out-of-Scope — seções 5.1 e 5.2)*
-- [x] Ao menos 3 critérios de aceite no formato "dado / quando / então" *(todos os 6 itens In-Scope estão no formato)*
-- [x] Exemplo de estrutura de arquivo de entrada presente *(seção 4, JSON completo com metadados, 8 vértices e 7 arestas)*
-
----
 
 ## Referências Bibliográficas Consolidadas
 
