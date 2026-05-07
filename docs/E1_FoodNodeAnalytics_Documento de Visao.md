@@ -13,7 +13,7 @@
 | Nome do projeto | FoodNode Analytics |
 | Integrante 1 | Luís Henrique Palacio — RGM: 37620932 |
 | Integrante 2 | Eduardo Pereira — RGM: 38270102 |
-| Integrante 3 | Gabriel Alves — RGM: 38561310 |
+| Integrante 3 | Gabriel Henrique Alves — RGM: 38561310 |
 | Domínio de aplicação | Logística de entregas — roteamento de fast-food |
 
 ---
@@ -74,18 +74,6 @@ Ao abstrair o mapa para um sistema de vértices e arestas, o sistema viabiliza a
 ![Diagrama da Malha Viária](E1_FoodNodeAnalytics_Grafo.Jpeg)
 
 **Legenda:** Figura 1 — Modelagem conceitual da malha viária do centro de Mogi das Cruzes. O vértice destacado representa a lanchonete FoodNode (ponto de origem), conectado aos cruzamentos de ruas (demais vértices) por meio de arestas dirigidas e ponderadas, representando os trechos de vias navegáveis. O diagrama ilustra a abstração do mapa geográfico real para a estrutura de grafo que será processada pelo algoritmo de Dijkstra.
-
----
-
-## Checklist de Entrega
-
-Antes de submeter, confirme:
-
-- [x] Texto entre 300 e 600 palavras (seções 1 a 5)
-- [x] Todos os campos da tabela de identificação preenchidos
-- [x] Tipo de grafo especificado com justificativa
-- [x] Diagrama presente e referenciado no texto
-- [x] Arquivo nomeado como `E1_FoodNodeAnalytics_Documento de Visão.md`
 
 ---
 
