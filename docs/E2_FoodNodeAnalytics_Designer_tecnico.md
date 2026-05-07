@@ -14,7 +14,7 @@
 | Repositório GitHub | `https://github.com/<usuario>/foodnode-analytics` *(preencher com a URL real)* |
 | Integrante 1 | Luís Henrique Palacio — RGM: 37620932 |
 | Integrante 2 | Eduardo Pereira — RGM: 38270102 |
-| Integrante 3 | Gabriel Alves — RGM: 38561310 |
+| Integrante 3 | Gabriel Henrique Alves — RGM: 38561310 |
 
 ---
 
