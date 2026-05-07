@@ -69,12 +69,4 @@ Ao abstrair o mapa para um sistema de vértices e arestas, o sistema viabiliza a
 
 ---
 
-## 7. Diagrama Conceitual
-
-![Diagrama da Malha Viária](E1_FoodNodeAnalytics_Grafo.Jpeg)
-
-**Legenda:** Figura 1 — Modelagem conceitual da malha viária do centro de Mogi das Cruzes. O vértice destacado representa a lanchonete FoodNode (ponto de origem), conectado aos cruzamentos de ruas (demais vértices) por meio de arestas dirigidas e ponderadas, representando os trechos de vias navegáveis. O diagrama ilustra a abstração do mapa geográfico real para a estrutura de grafo que será processada pelo algoritmo de Dijkstra.
-
----
-
 *Teoria dos Grafos — Profa. Dra. Andréa Ono Sakai*
