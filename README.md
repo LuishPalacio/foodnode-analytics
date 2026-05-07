@@ -161,15 +161,15 @@ O **BFS roda antes do Dijkstra** para detectar quando o destino está em um comp
 
 ```
 foodnode-analytics/
-├── README.md                          (este arquivo)
+├── README.md                          
 ├── requirements.txt
 ├── pytest.ini
 ├── .gitignore
-├── docs/                              (documentação dos entregáveis)
+├── docs/                              
 │   ├── E1_FoodNodeAnalytics_Documento de Visão.md
 │   ├── E2_FoodNodeAnalytics_Designer_técnico.md
 │   └── E3_FoodNodeAnalytics_MVP.md
-├── src/                               (código-fonte em 4 camadas)
+├── src/                               
 │   ├── main.py
 │   ├── presentation/cli.py
 │   ├── application/
@@ -186,18 +186,18 @@ foodnode-analytics/
 │       ├── json_reader.py
 │       ├── json_writer.py
 │       └── random_graph_generator.py
-├── tests/                             (65 testes pytest)
+├── tests/                             
 │   ├── test_graph.py
 │   ├── test_dijkstra.py
 │   ├── test_bfs.py
 │   ├── test_io.py
 │   ├── test_route_service.py
 │   └── test_performance.py
-├── data/                              (grafos de exemplo)
-│   ├── sample_bairro_8v.json          (didático — centro de Mogi)
-│   ├── sample_bairro_50v.json         (gerado, seed=42)
-│   └── stress_test_500v.json          (gerado, seed=1234)
-└── assets/                            (screenshots das telas)
+├── data/                              
+│   ├── sample_bairro_8v.json          
+│   ├── sample_bairro_50v.json         
+│   └── stress_test_500v.json          
+└── assets/                            
     ├── mvp_entrada.png
     ├── mvp_resultado.png
     └── mvp_inalcancavel.png
@@ -221,4 +221,4 @@ Promessa do E2 (`<1s para 50 vértices`) cumprida com folga de mais de **7000x**
 
 ## Licença
 
-Projeto acadêmico — uso restrito à disciplina de Teoria dos Grafos.
+Projeto acadêmico 
