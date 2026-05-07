@@ -436,36 +436,6 @@ Promessa do E2 (`<1s para 50 vértices`) cumprida com folga de mais de 7000x.
 
 ---
 
-## Checklist de Entrega
 
-- [x] Repositório público e acessível em https://github.com/LuishPalacio/foodnode-analytics
-- [x] `.gitignore` configurado para Python (cache, venv, coverage, etc.)
-- [x] README com instruções de execução do MVP
-- [x] Algoritmo principal (Dijkstra) executando sem erros
-- [x] Tela de entrada e tela de resultado demonstráveis (3 screenshots em `assets/`)
-- [x] 3 testes unitários por algoritmo passando (Dijkstra: 14 testes; BFS: 11 testes)
-- [x] ≥ 5 commits com prefixos semânticos (`feat:`, `test:`, `docs:`)
-- [x] Arquivo de grafo de exemplo em `data/` (3 arquivos: 8v didático, 50v gerado, 500v stress)
-
----
-
-## Resposta aos alertas do E2
-
-A avaliação do E2 (10/10) deixou três alertas. Resposta de cada um:
-
-**⚠ Overengineering (leve):** dos 6 itens In-Scope do backlog do E2, todos foram
-implementados — nenhum foi cortado. A complexidade ficou dentro do prazo porque
-a arquitetura desenhada no E2 já permitia divisão clara de responsabilidades.
-
-**⚠ Cobertura de testes >80%:** atingida. 65 testes cobrindo as 4 camadas, com casos
-exigidos (base, vazio, completo) explicitamente nomeados nas classes
-`TestDijkstraCasoBase`, `TestDijkstraGrafoVazio`, `TestDijkstraGrafoCompleto`,
-`TestBFSCasoBase`, `TestBFSGrafoVazio`, `TestBFSGrafoCompleto`.
-
-**⚠ Validar empiricamente <1s:** validado em `tests/test_performance.py`, com
-3 testes parametrizados (50, 500, 1000 vértices) que falham se o tempo passar do
-limite. Tempos reais medidos: 0,14ms / 2,70ms / 5,60ms.
-
----
 
 *Teoria dos Grafos — Profa. Dra. Andréa Ono Sakai*
