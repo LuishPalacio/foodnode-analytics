@@ -17,7 +17,7 @@ Projeto da disciplina **Teoria dos Grafos** — Profa. Dra. Andréa Ono Sakai.
 
 - [E1 — Documento de Visão](docs/E1_FoodNodeAnalytics_Documento%20de%20Visão.md)
 - [E2 — Design Técnico](docs/E2_FoodNodeAnalytics_Designer_técnico.md)
-- [E3 — MVP (esta entrega)](docs/E3_FoodNodeAnalytics_MVP.md)
+- [E3 — MVP](docs/E3_FoodNodeAnalytics_MVP.md)
 
 ---
 
