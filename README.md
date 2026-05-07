@@ -68,7 +68,7 @@ Saída esperada:
     ▸ [0] Restaurante FoodNode (origem)
     ▸ [3] Rua XV de Novembro x Rua Dom Pedro
     ▸ [4] Rua XV de Novembro x Av. Cândido
-    ◆ [6] Cliente João - Vila Industrial
+    ▸ [6] Cliente João - Vila Industrial
 ════════════════════════════════════════════════════════════
 ✅ Rota encontrada com 4 vértices, custo total 260.00 m.
 ```
