@@ -12,7 +12,7 @@ Projeto da disciplina **Teoria dos Grafos** — Profa. Dra. Andréa Ono Sakai.
 |------------|-----|
 | Luís Henrique Palacio | 37620932 |
 | Eduardo Pereira | 38270102 |
-| Gabriel Alves | 38561310 |
+| Gabriel Henrique Alves | 38561310 |
 
 ## Documentação
 
